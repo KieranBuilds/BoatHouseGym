@@ -1,0 +1,39 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Boat House with Gym version
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_2A10418C_2759_8FBC_41B5_FA2D384EAC20.label = Veranda
+panorama_2A47E133_2768_8CE4_41B7_AB80A740050C.label = Bathroom 1
+panorama_2A68418B_275B_8FA4_41C2_D177680C2A1B.label = Deck View 2
+panorama_2ACFE4BD_2768_95DC_41C0_1478036D5669.label = Gym 
+panorama_2B21AEC0_2759_B5A4_4179_811EDF2C7FD0.label = Deck View 1
+panorama_2BA48A78_2758_9D64_4195_2B1EB4D8B11D.label = Kitchen
+panorama_2C24246B_2637_7EAA_418C_CAF2E152C61E.label = Living Room 2
+panorama_2C250788_2635_1A57_41B3_84434F0E1E1D.label = Staircase 
+panorama_2C2509E9_2634_E9D6_41B3_18973FD20E94.label = Bathroom 2
+panorama_2C250FC0_2635_69D7_41C2_80B02744C02D.label = Corridor 2
+panorama_2C252CE5_2635_6FD9_41C2_E7B7D0863391.label = Corridor 3
+panorama_2C2547A4_2637_1A5F_4189_0818BA847A99.label = Living Room 1
+panorama_2C2599F8_2635_29B7_4182_BACDFC9CF078.label = Corridor 1
+panorama_2C2A0DCD_263B_69E9_41A5_FDFAE14686CF.label = Bedroom 2
+panorama_2C2A10BB_263B_17A9_41BE_A7AD819420F9.label = Bedroom 1
+panorama_2C2A3F65_263D_6AD9_41BB_501518250D73.label = Corridor 6
+panorama_2C2A45EF_263B_39A9_41C0_775543D859C8.label = Corridor 5
+panorama_2C2A9280_263B_1A57_41B9_2C5DF7C7EC8C.label = Bedroom 4
+panorama_2C2AA40A_263B_3E6B_4195_AC2D493A66DD.label = Corridor 4
+panorama_2C2ADDEA_263B_E9AB_41AB_E242E3610732.label = Bedroom 3
+panorama_2C2BDE0C_263D_2A6E_41C1_7B2366F7F9E7.label = Bathroom 3
